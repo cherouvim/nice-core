@@ -25,14 +25,14 @@ class TestDownhillSimplex : public CppUnit::TestFixture {
     void tearDown();
 
     /**
-    * @brief Test of 1D optimziation with a simple convex cost function
+    * @brief Test of 1D optimization with a simple convex cost function
     * @date 27-09-2012
     * @author Alexander Freytag
     */      
     void testDHS_1Dim();
 
     /**
-    * @brief Test of 2D optimziation with a simple convex cost function
+    * @brief Test of 2D optimization with a simple convex cost function
     * @date 27-09-2012
     * @author Alexander Freytag
     */    
